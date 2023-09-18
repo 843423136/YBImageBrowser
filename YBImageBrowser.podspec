@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/843423136/YBImageBrowser", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/843423136/YBImageBrowser.git", :tag => "#{s.version}" }
 
   s.requires_arc = true
 
